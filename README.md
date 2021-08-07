@@ -1,6 +1,10 @@
 # collatz_conjecture_py
 Plotting of Collatz Conjecture in Python
 
+## Requirement
+- Python3
+- Matplotlib
+
 ## Collatz conjecture
 ![image](https://user-images.githubusercontent.com/45909337/128587913-3abc1eff-38c9-4bdf-afec-b8bb2fff094b.png)
 
