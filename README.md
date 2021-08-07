@@ -6,6 +6,7 @@ Plotting of Collatz Conjecture in Python
 - Matplotlib
 
 ## Collatz conjecture
+#### ref: https://en.wikipedia.org/wiki/Collatz_conjecture
 ![image](https://user-images.githubusercontent.com/45909337/128587913-3abc1eff-38c9-4bdf-afec-b8bb2fff094b.png)
 
 ## Example
